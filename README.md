@@ -1,4 +1,4 @@
-# Vagrant F#
+# Vagrant-FSharp
 
 A vagrant virtual machine. Gives you:
 
