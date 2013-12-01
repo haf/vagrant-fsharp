@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    librarian-puppet-simple.haf (0.1.1)
+      thor (~> 0.15)
+    rake (10.1.0)
+    thor (0.18.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  librarian-puppet-simple.haf
+  rake
